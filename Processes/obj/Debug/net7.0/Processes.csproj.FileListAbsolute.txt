@@ -1,0 +1,15 @@
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\bin\Debug\net7.0\Processes.exe
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\bin\Debug\net7.0\Processes.deps.json
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\bin\Debug\net7.0\Processes.runtimeconfig.json
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\bin\Debug\net7.0\Processes.dll
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\bin\Debug\net7.0\Processes.pdb
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\obj\Debug\net7.0\Processes.csproj.AssemblyReference.cache
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\obj\Debug\net7.0\Processes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\obj\Debug\net7.0\Processes.AssemblyInfoInputs.cache
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\obj\Debug\net7.0\Processes.AssemblyInfo.cs
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\obj\Debug\net7.0\Processes.csproj.CoreCompileInputs.cache
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\obj\Debug\net7.0\Processes.dll
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\obj\Debug\net7.0\refint\Processes.dll
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\obj\Debug\net7.0\Processes.pdb
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\obj\Debug\net7.0\Processes.genruntimeconfig.cache
+C:\Users\themohsen\Documents\C-Sharp\Processes\Processes\obj\Debug\net7.0\ref\Processes.dll
